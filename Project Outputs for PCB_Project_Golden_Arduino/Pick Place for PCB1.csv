@@ -1,0 +1,57 @@
+Altium Designer Pick and Place Locations
+C:\Users\nitis\OneDrive - UCB-O365\Sem3\PCB Design\Board projects\PCB_Project_Golden_Arduino\Project Outputs for PCB_Project_Golden_Arduino\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/11/20
+Time:       23:59
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"D1","IP4234CZ6,125","TopLayer","TVS","2204.232","3122.598","0","Clamp Ipp Tvs Diode Surface Mount 6-TSOP"
+"C3","22pF","TopLayer","0402_Passive","2390.315","1190.000","0","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22PF 50V 0402 ROHS"
+"C1","22pF","TopLayer","0402_Passive","2390.315","1010.000","0","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22PF 50V 0402 ROHS"
+"J5","NRPN032PAEN-RC","TopLayer","ICSP","1800.000","545.000","270","Connector Header Through Hole 6 position 0.079" (2.00mm)"
+"XTAL1","ABLS-16.000MHZ-B4-T","TopLayer","Crystal","2240.000","1067.008","270","16MHz ±30ppm Crystal 18pF 40 Ohms HC-49/US. Use for ECEN 4/5730 Arduino"
+"U2","FT232RL-REEL","TopLayer","FTDI","1900.000","2800.000","0","USB Bridge, USB to UART USB 2.0 UART Interface 28-SSOP"
+"U1","ATMEGA328P-ANR","TopLayer","ATMega328P","1831.929","1160.000","360","AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 32-TQFP (7x7)"
+"TP1","10x Probe TP","TopLayer","TP10x_Probe","3500.000","3000.000","360","Test Point 300 mil centers"
+"SW2","PREC003SAAN-RC","TopLayer","3_PIN_100mil","1500.000","3300.000","360","Connector Header Through Hole 3 position 0.100" (2.54mm)"
+"SW1","TL3305AF160QG","TopLayer","Switch_JLC","1231.417","2642.520","270","Tactile Switch SPST-NO Top Actuated Surface Mount"
+"R10","1k","TopLayer","0402_Passive","2260.315","1870.000","360","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R9","1k","TopLayer","0402_Passive","3000.000","3419.685","90","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R8","1k","TopLayer","0402_Passive","1140.315","2200.000","0","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R7","1k","TopLayer","0402_Passive","2010.315","2030.000","0","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R6","1k","TopLayer","0402_Passive","1839.685","2090.000","0","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R1","1k","TopLayer","0402_Passive","1519.685","2620.000","0","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"PS1","AZ1117CH-3.3TRG1","TopLayer","LDO","2700.000","3198.936","0","Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-223"
+"P1","Power Jack","TopLayer","Power_Jack","616.477","3335.796","90","Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle"
+"LED5","LTST-C150CKT","TopLayer","LED","2239.000","1980.000","90","Green LED Indicator"
+"LED4","LTST-C150CKT","TopLayer","LED","3000.000","3141.000","0","Green LED Indicator"
+"LED3","LTST-C150CKT","TopLayer","LED","1359.000","2200.000","90","Red 638nm LED Indication - Discrete 1.8V 1206 (3216 Metric)"
+"LED2","LTST-C150CKT","TopLayer","LED","1959.000","2180.000","90","Blue LED Indicator"
+"LED1","LTST-C150CKT","TopLayer","LED","2279.000","2180.000","90","Blue LED Indicator"
+"J10","PPTC061LFBN-RC","TopLayer","6_PIN_ARDUINO_100mil","500.000","850.000","90","6 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J9","PPTC101LFBN-RC","TopLayer","10_PIN_ARDUINO_100MIL","3000.000","1910.000","90","10 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J8","PPTC081LFBN-RC","TopLayer","8_PIN_ARDUINO_100MIL","500.000","1650.000","270","8 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J7","PPTC081LFBN-RC","TopLayer","8_PIN_ARDUINO_100MIL","3000.000","950.000","270","8 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J6","XM7D-0512","TopLayer","USB_2","2105.000","3491.997","0","USB - mini B USB 2.0 Receptacle Connector 5 Position Through Hole, Right Angle"
+"J4","PPTC081LFBN-RC Power","TopLayer","8_PIN_ARDUINO_100MIL","800.000","1650.000","270","8 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J3","PPTC061LFBN-RC analog","TopLayer","6_PIN_ARDUINO_100mil","800.000","850.000","270","6 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J2","PPTC081LFBN-RC","TopLayer","8_PIN_ARDUINO_100MIL","2700.000","950.000","90","8 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J1","PPTC101LFBN-RC digital","TopLayer","10_PIN_ARDUINO_100MIL","2700.000","1910.000","90","10 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"FB1","FB_300mA_1206","TopLayer","1206_Passive","1211.000","1140.000","180","Ferrite Bead. 2 kOhms @ 30MHz, 500mOhm"
+"F1","MF-MSMF050-2","TopLayer","FUSE","1880.000","3200.000","0","Polymeric PTC Resettable Fuse 15V 500mA Ih Surface Mount 1812 (4532 Metric), Concave"
+"C14","22uF","TopLayer","0603_PASSIVE","1580.000","1232.441","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 6.3V 0603 ROHS"
+"C12","22uF","TopLayer","0603_PASSIVE","2500.000","3127.559","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 6.3V 0603 ROHS"
+"C11","22uF","TopLayer","0603_PASSIVE","1072.441","3300.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 6.3V 0603 ROHS"
+"C10","22uF","TopLayer","0603_PASSIVE","1660.000","2867.559","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 6.3V 0603 ROHS"
+"C9","22uF","TopLayer","0603_PASSIVE","1672.441","3120.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 6.3V 0603 ROHS"
+"C7","1uF","TopLayer","0402_Passive","1240.315","2980.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS"
+"C6","22uF","TopLayer","0603_PASSIVE","947.559","2680.000","0","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 6.3V 0603 ROHS"
+"C5","22uF","TopLayer","0603_PASSIVE","1350.000","1192.441","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 6.3V 0603 ROHS"
+"C4","22uF","TopLayer","0603_PASSIVE","2090.000","1072.441","270","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 6.3V 0603 ROHS"
+"C2","22uF","TopLayer","0603_PASSIVE","1492.441","1020.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 6.3V 0603 ROHS"
