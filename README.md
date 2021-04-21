@@ -6,5 +6,5 @@ This repo contains all the necessary files for creating a Arduino Board.
 
 ## BOM
 - The Bill of Materials: all the components used 
-## [CSV Pick and Place]
+## CSV Pick and Place
 - Contains the pick and place information in csv format
