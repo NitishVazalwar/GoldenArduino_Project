@@ -19,5 +19,6 @@ This repo contains all the necessary files for creating a Arduino Board.
 - Schematic Prints.pdf shows the schematic in pdf form
 - Sheet1.SchDoc open in Altium to see Schematic file
 - Top_view.pdf shows the Top view (any pdf viewer)
-- 
+
+
 The files were all created in Nov 2020 and are transferred to git. 
